@@ -1,14 +1,13 @@
 # Jing Zhang  
 📍 Victoria, BC, Canada  
 📧 zhj0903@outlook.com | 📞 (778) 700-8920  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/jing-zhang-105950342/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jing-zhang-105950342/)
 
 ---
 
-## 👋 About Me  
-I’m a Master’s student in Statistics at the University of Victoria, with hands-on experience in **biostatistics**, **financial data analysis**, and **applied statistical research**. My work bridges both academic research and real-world applications, ranging from **Monte Carlo simulation**, **scRNA-seq data analysis**, to **mathematical modeling** in award-winning international competitions.
-
-I am passionate about turning data into insight and building robust, reproducible, and scalable solutions through R, Python, and HPC tools. I actively contribute to research collaborations, open-source development, and mentorship in the field of data science.
+## 👋 About Me
+I'm a Master’s graduate in Statistics from the University of Victoria, skilled in R, Python, HPC, and data visualization. My experience encompasses **applied statistics**, **biostatistics**, and **financial data analysis**, demonstrated through academic research and industry internships. Additionally, I have contributed to award-winning **mathematical modeling** teams, further developing my analytical thinking and collaborative skills. I'm eager to apply and expand my expertise in data science and quantitative analysis roles, delivering impactful solutions in both research and industry settings.
 
 ---
 
@@ -24,9 +23,9 @@ I am passionate about turning data into insight and building robust, reproducibl
 ## 💻 Skills  
 - **Programming**: R, Python, Matlab, C++  
 - **Visualization**: Power BI, ggplot2  
-- **Statistical Tools**: SPSS, Eviews, MySQL  
-- **Coursework**: Machine Learning, Survival Analysis, Time Series, Experimental Design  
-- **Tools**: Git, HPC, Microsoft Office  
+- **Statistical Tools**: SPSS, Eviews
+- **Databases**: MySQL
+- **Coursework**: Machine Learning, Survival Analysis, Time Series, Experimental Design   
 
 ---
 
@@ -38,7 +37,7 @@ I am passionate about turning data into insight and building robust, reproducibl
 - Used ggplot2 and HPC clusters to visualize and scale simulations  
 - Communicated findings to supervisors and collaborators in weekly meetings  
 
-### 🔹 Providence Health Care (MITACS) – Data Analyst Intern  
+### 🔹 MITACS Accelerate – Data Analyst Intern  
 **Project**: scRNA-seq Cell Type Annotation  
 - Applied harmonization algorithms across 6+ studies  
 - Generated UMAP and heatmap visualizations for DE results  
