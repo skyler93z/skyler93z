@@ -1,6 +1,6 @@
 # Jing Zhang  
 📍 Victoria, BC, Canada  
-📧 zhj0903@outlook.com | 📞 (778) 700-8920  
+📧 zhj0903@outlook.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jing-zhang-105950342/)
 
@@ -28,64 +28,34 @@ I'm a Master’s graduate in Statistics from the University of Victoria, skilled
 - **Coursework**: Machine Learning, Survival Analysis, Time Series, Experimental Design   
 
 ---
+## 💡 Highlights
 
-## 💼 Experience Highlights  
+- 🔬 **Research**:  
+  - Developed an R package `glmpermu` for permutation-based inference in GLMs (218+ downloads/month)  
+  - Analyzed 140K+ single-cell RNA-seq profiles for DE gene detection  
+  - Conducted 1M+ simulations for evaluating linear model robustness using permutation methods  
 
-### 🔹 MITACS Accelerate – Data Analyst Intern  
-**Project**: Permutation Approaches in Linear Regression  
-- Ran >1M permutation tests to assess Type I error and power under various strategies  
-- Used ggplot2 and HPC clusters to visualize and scale simulations  
-- Communicated findings to supervisors and collaborators in weekly meetings  
+- 🏥 **Industry**:  
+  - Interned at Providence Health Care & MITACS: automated cell type annotation from scRNA-seq  
+  - Audited financial data from 3,000+ Chinese listed firms, achieving 99% validation accuracy  
+  - Improved data workflows using R, Python, Excel, and HPC tools  
 
-### 🔹 MITACS Accelerate – Data Analyst Intern  
-**Project**: scRNA-seq Cell Type Annotation  
-- Applied harmonization algorithms across 6+ studies  
-- Generated UMAP and heatmap visualizations for DE results  
-- Prepared weekly summaries and visuals for biomedical collaborators  
-
-### 🔹 UVic – Statistical Research Assistant  
-- Co-authored and published the `glmpermu` R package (218+ monthly downloads)  
-- Conducted DE analysis on 140k+ single-cell data  
-- Presented work at academic conferences and maintained reproducible GitHub pipelines  
-
-### 🔹 Shenzhen DIB – Database Intern  
-- Validated 3,000+ financial records with 99% accuracy  
-- Identified and fixed 200+ errors using logical rules and formulas  
+- 🏆 **Competitions**:  
+  - Finalist (Top 2%) in COMAP MCM 2022 for carbon sequestration modeling  
+  - National Prize in Chinese Mathematical Modeling Contest  
 
 ---
 
-## 🧠 Academic Projects  
+## 📂 Featured Projects
 
-### Mathematical Contest in Modeling (Finalist, Top 2%)  
-- Led a 3-member team to model sustainable forest planning using goal programming  
-- Drafted a 24-page technical paper reviewed by international experts  
+- 🔗 [Permutation Inference for GLMs (`glmpermu` R Package)](https://github.com/YOUR_USERNAME/glmpermu)  
+- 🔗 [scRNA-seq Annotation & DE Pipeline (Research Project)](https://github.com/YOUR_USERNAME/scRNA-DE-project)  
+- 🔗 [COMAP Modeling Paper (Finalist Prize)](https://github.com/YOUR_USERNAME/comap-modeling)  
 
-### National Undergraduate Modeling Contest (Second Prize)  
-- Applied grey prediction and particle swarm optimization to logistics problems  
-- Improved material delivery efficiency by ~18%  
+> 📌 *Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR_LINK)!*
 
 ---
 
-## 🎓 Teaching Experience  
-**Math & Stats Assistance Centre, UVic** (Sep 2024 – Apr 2025)  
-- Tutored 450+ undergrad sessions across math and stats courses  
-- Helped students build confidence in problem-solving and understanding theory  
-
----
-
-## 📂 Featured Repositories  
-- 🔬 [`glmpermu`](https://github.com/your-github-id/glmpermu): Permutation-based inference for GLMs  
-- 🧬 `scRNAseq-Annotation`: Code & plots for single-cell annotation pipelines  
-- 📊 `forest-carbon-model`: COMAP award-winning optimization model  
-
----
-
-## 🔍 Interests  
-- Statistical genomics  
-- High-performance simulation  
-- Reproducible research  
-- Data-driven public policy  
-
----
+⭐ *Currently seeking Summer/Fall 2025 opportunities in data science, statistics, or quantitative research roles.*
 
 *Thank you for visiting my profile! I’m currently seeking opportunities in data science, biostatistics, and applied quantitative analysis.*
