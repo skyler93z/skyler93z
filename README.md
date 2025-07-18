@@ -45,16 +45,15 @@ I'm a Master’s graduate in Statistics from the University of Victoria, skilled
   - National Second Prize (Top 9%) in 2021 Chinese Mathematical Modeling Contest: Research on Multi-Objective Planning of Raw Material Ordering and Transportation
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Repositories
 
 - 🔗 [Permutation Inference for GLMs (`glmpermu` R Package)](https://github.com/YOUR_USERNAME/glmpermu)  
 - 🔗 [scRNA-seq Annotation & DE Pipeline (Research Project)](https://github.com/YOUR_USERNAME/scRNA-DE-project)  
-- 🔗 [COMAP Modeling Paper (Finalist Prize)](https://github.com/YOUR_USERNAME/comap-modeling)  
 
-> 📌 *Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR_LINK)!*
+
+> 📌 *Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/jing-zhang-105950342/)!*
 
 ---
 
-⭐ *Currently seeking Summer/Fall 2025 opportunities in data science, statistics, or quantitative research roles.*
 
-*Thank you for visiting my profile! I’m currently seeking opportunities in data science, biostatistics, and applied quantitative analysis.*
+*Thank you for visiting my profile! I’m currently seeking opportunities in data science, biostatistics, applied quantitative analysis and business or financial analysis.*
