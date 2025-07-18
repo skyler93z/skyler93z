@@ -36,14 +36,13 @@ I'm a Master’s graduate in Statistics from the University of Victoria, skilled
   - Conducted 1M+ simulations for evaluating linear model robustness using permutation methods  
 
 - 🏥 **Industry**:  
-  - Interned at Providence Health Care & MITACS: automated cell type annotation from scRNA-seq  
-  - Audited financial data from 3,000+ Chinese listed firms, achieving 99% validation accuracy  
-  - Improved data workflows using R, Python, Excel, and HPC tools  
+  - Interned at MITACS and UVic: automated cell type annotation from scRNA-seq; choosing optimal permutation methods; big sample issue under model assumption violations
+  - Processed and verified over 3,000 entries of public financial data from Chinese listed companies, ensuring a 99% accuracy rate after validation
+  - Improved data workflows using Python and Excel  
 
 - 🏆 **Competitions**:  
-  - Finalist (Top 2%) in COMAP MCM 2022 for carbon sequestration modeling  
-  - National Prize in Chinese Mathematical Modeling Contest  
-
+  - Finalist (Top 2%) in 2022 Mathematical Contest in Modeling, COMAP (USA): Forest Management Based on Carbon Sequestration and Goal Programming
+  - National Second Prize (Top 9%) in 2021 Chinese Mathematical Modeling Contest: Research on Multi-Objective Planning of Raw Material Ordering and Transportation
 ---
 
 ## 📂 Featured Projects
