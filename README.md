@@ -1,4 +1,4 @@
-# Jing Zhang  
+# 👋 Hi, I’m Jing Zhang
 📍 Victoria, BC, Canada  
 📧 zhj0903@outlook.com
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 About Me
+## 🎯 About Me
 I'm a Master’s graduate in Statistics from the University of Victoria, skilled in R, Python, HPC, and data visualization. My experience encompasses **applied statistics**, **biostatistics**, and **financial data analysis**, demonstrated through academic research and industry internships. Additionally, I have contributed to award-winning **mathematical modeling** teams, further developing my analytical thinking and collaborative skills. I'm eager to apply and expand my expertise in data science and quantitative analysis roles, delivering impactful solutions in both research and industry settings.
 
 ---
@@ -35,7 +35,7 @@ I'm a Master’s graduate in Statistics from the University of Victoria, skilled
   - Analyzed 140K+ single-cell RNA-seq profiles for DE gene detection  
   - Conducted 1M+ simulations for evaluating linear model robustness using permutation methods  
 
-- 🏥 **Industry**:  
+- 🗂️ **Industry**:  
   - Interned at MITACS and UVic: automated cell type annotation from scRNA-seq; choosing optimal permutation methods; big sample issue under model assumption violations
   - Processed and verified over 3,000 entries of public financial data from Chinese listed companies, ensuring a 99% accuracy rate after validation
   - Improved data workflows using Python and Excel  
