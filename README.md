@@ -7,7 +7,7 @@
 ---
 
 ## 🎯 About Me
-I'm a Master’s graduate in Statistics from the University of Victoria, skilled in R, Python, HPC, and data visualization. My experience encompasses **applied statistics**, **biostatistics**, and **financial data analysis**, demonstrated through academic research and industry internships. Additionally, I have contributed to award-winning **mathematical modeling** teams, further developing my analytical thinking and collaborative skills. I'm eager to apply and expand my expertise in data science and quantitative analysis roles, delivering impactful solutions in both research and industry settings.
+I'm a Master’s student in Statistics from the University of Victoria, skilled in R, Python, HPC, and data visualization. My experience encompasses **applied statistics**, **biostatistics**, and **financial data analysis**, demonstrated through academic research and industry internships. Additionally, I have contributed to award-winning **mathematical modeling** teams, further developing my analytical thinking and collaborative skills. I'm eager to apply and expand my expertise in data science and quantitative analysis roles, delivering impactful solutions in both research and industry settings.
 
 ---
 
