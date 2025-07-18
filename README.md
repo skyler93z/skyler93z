@@ -32,8 +32,8 @@ I'm a Master’s student in Statistics from the University of Victoria, skilled 
 
 - 🔬 **Research**:  
   - Developed an R package [`glmpermu`](https://cran.r-project.org/web/packages/glmpermu/glmpermu.pdf) for permutation-based inference in GLMs (218+ downloads/month)  
-  - Analyzed 140K+ single-cell RNA-seq profiles for DE gene detection  
-  - Conducted 1M+ simulations for evaluating linear model robustness using permutation methods  
+  - Conducted 1M+ simulations for evaluating linear model robustness using permutation methods
+  - Analyzed 140K+ single-cell RNA-seq profiles for DE gene detection based on permutation strategy  
 
 - 🗂️ **Industry**:  
   - Interned at MITACS and UVic: automated cell type annotation from scRNA-seq; choosing optimal permutation methods; big sample issue under model assumption violations
