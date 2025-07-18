@@ -31,7 +31,7 @@ I'm a Master’s graduate in Statistics from the University of Victoria, skilled
 ## 💡 Highlights
 
 - 🔬 **Research**:  
-  - Developed an R package `glmpermu` for permutation-based inference in GLMs (218+ downloads/month)  
+  - Developed an R package [`glmpermu`](https://cran.r-project.org/web/packages/glmpermu/glmpermu.pdf) for permutation-based inference in GLMs (218+ downloads/month)  
   - Analyzed 140K+ single-cell RNA-seq profiles for DE gene detection  
   - Conducted 1M+ simulations for evaluating linear model robustness using permutation methods  
 
@@ -47,8 +47,8 @@ I'm a Master’s graduate in Statistics from the University of Victoria, skilled
 
 ## 📂 Featured Repositories
 
-- 🔗 [Permutation Inference for GLMs (`glmpermu` R Package)](https://github.com/YOUR_USERNAME/glmpermu)  
-- 🔗 [scRNA-seq Annotation & DE Pipeline (Research Project)](https://github.com/YOUR_USERNAME/scRNA-DE-project)  
+- 🔗 [Beyond Conventional P-Values: Addressing Statistical Challenges in Big Data](https://github.com/skyler93z/bigDataIssue)  
+- 🔗 [Permutation in Regression Revisited: The Residual Route Proven Optimal Theoretically](https://github.com/skyler93z/Permutation)  
 
 
 > 📌 *Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/jing-zhang-105950342/)!*
